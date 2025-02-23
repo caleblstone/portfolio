@@ -1,0 +1,20 @@
+backend:
+  name: git-gateway
+  branch: main
+
+collections:
+  - name: "work"
+    label: "Work" 
+    folder: "_posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "select", options: ["individual_work_layout", "individual_text_layout", "individual_community_layout", "post"] }
+      - { label: "Categories", name: "categories", widget: "select", options: ["work", "text", "community", "question"] }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Production Date", name: "production_date", widget: "string" }
+      - { label: "Materials", name: "materials", widget: "string" }
+      - { label: "Dimensions", name: "dimensions", widget: "string" }
+      - { label: "Type", name: "type", widget: "string" }
+      - { label: "Location", name: "location", widget: "string" }
+      - { label: "Images", name: "images", widget: "list" }
