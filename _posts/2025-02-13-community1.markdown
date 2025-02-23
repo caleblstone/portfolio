@@ -1,0 +1,11 @@
+---
+layout: individual_community_layout
+title:  "The dust exceeded all expectations"
+production_date: "2024"
+type: "Exhibition"
+location: "Compere Collective"
+date:   2025-01-27 15:02:29 +0000
+categories: community
+---
+
+Hello World

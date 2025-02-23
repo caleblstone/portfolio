@@ -1,0 +1,52 @@
+header{
+
+    height: 8vh;
+    max-height: 48px;
+    width: 100%;
+    border-bottom: 1px solid black;
+
+    display: grid;
+    grid-template-columns: 1fr auto;
+
+}
+
+div.header_navigation{
+
+    padding-left: 16px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    gap: 16px;
+    
+    nav{
+        display: flex;
+        align-items: center; 
+        justify-content: center;
+    }
+    nav:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+}
+
+div.email{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding-right: 16px;
+}
+
+@media (max-width: 768px) {
+   div.email{
+    display: none;
+   }
+   
+   header{
+    grid-template-columns: 1fr;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    z-index: 20;
+   }
+}

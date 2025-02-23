@@ -1,0 +1,80 @@
+---
+---
+
+html, body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    display: grid;
+  grid-template-columns: 1fr auto; /* Left takes remaining space, right has fixed width */
+  gap: 0px;
+  font-family: "logic-monospace", mono;
+  font-weight: 400;
+  font-style: normal;
+  height: 100vh;
+}
+
+h1 {
+    font-family: "logic-monospace", mono;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+}
+
+
+h2 {
+    font-family: "logic-monospace", mono;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+}
+
+h3{
+    font-family: "logic-monospace", mono;
+    font-style: italic;
+    font-weight: 400;
+    color: black;
+    font-size: 16px;
+}
+
+a {
+    font-family: "logic-monoscript", mono;
+    color: black;
+
+    // h1:hover{
+    //     font-family: "logic-monoscript", mono;
+    // }
+}
+nav{
+    a{
+        font-family: "logic-monospace", mono;
+    font-weight: 400;
+    font-style: normal;
+    }
+}
+p{
+    margin: 0px;
+    margin-bottom: 16px;
+}
+
+@import "body";
+@import "header";
+@import "worklist";
+@import "questions";
+@import "individual_work";
+@import "textlist";
+
+    
+@media (max-width: 768px) {
+    body {
+        grid-template-columns: 1fr; // Stack everything in one column
+        height: auto;
+    }
+
+}

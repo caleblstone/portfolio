@@ -1,0 +1,29 @@
+---
+site_content: worklist.html
+permalink: /work/
+---
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://use.typekit.net/zum8sqi.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  
+  <body>
+    <div class="body">
+      {% include header.html %}
+      {% include {{ layout.site_content }} %}
+    </div>
+
+    <div class="questions">
+      {% include questions.html %}
+    </div>
+    
+  </body>
+</html>
