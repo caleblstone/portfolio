@@ -1,8 +1,0 @@
----
-layout: post
-title:  "1"
-date:   2025-01-27 15:02:29 +0000
-categories: question
----
-
-If these there exist relationships between symbol, meaning, and sound, how can you manipulate the symbol to modulate its imagined sound, its meaning, all while maintaining its demand to be ‘read’?
