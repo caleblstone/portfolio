@@ -30,7 +30,7 @@ div.individual_work_content{
     grid-template-columns: auto 1fr;
     gap: 0px;
     height: 100%;
-    justify-content: end;
+    
 }
 
 div.work_description{
@@ -64,6 +64,8 @@ div.work_images{
   overflow-y: scroll;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;
+  display: flex;
+  justify-content: right;
 
     img{
         max-width: 100%;
