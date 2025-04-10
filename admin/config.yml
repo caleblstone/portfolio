@@ -8,7 +8,7 @@ media_library:
   name: uploadcare
   config:
     publicKey: fbb66349001efbc7e5ce
-  multiple: true;
+  multiple: true
 
 collections:
   - name: "work"
