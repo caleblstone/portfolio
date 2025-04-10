@@ -3,7 +3,7 @@ layout: individual_work_layout
 categories: work
 title: Binary Opposition
 production_date: "2019"
-materials: Risograph print on paper
+materials: Risograph prints in staple bound book
 dimensions: 6" x 8.5"
 images:
   - https://ucarecdn.com/bec2cecb-2495-4319-b2ca-ef33945682e3/
