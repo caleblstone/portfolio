@@ -7,9 +7,9 @@ materials: Graphite drawings on vellum mounted to wood and nails with magnets,
   wild-harvested earthenware
 dimensions: 73 x 11 x 3 in.
 images:
-  - https://ucarecdn.com/6293fd22-97a5-4618-856b-3c6c1c48377e/
   - https://ucarecdn.com/df132fa7-4ce2-40d1-8f09-0b479a166739/
   - https://ucarecdn.com/7adc2ee0-aaaf-4a57-89f6-014921d3e2a6/
+  - https://ucarecdn.com/6293fd22-97a5-4618-856b-3c6c1c48377e/
   - https://ucarecdn.com/e165e347-c9e3-41a8-be69-57f21ef9d01d/
   - https://ucarecdn.com/19956bd2-a0c5-46d0-962d-bdb8e8a04493/
   - https://ucarecdn.com/153f0798-f65e-44a3-8ed0-df174332728b/
