@@ -1,10 +1,21 @@
 ---
 ---
 
+@font-face {
+    font-family: "mono";
+    src: url(/assets/mono.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "mono_italic";
+    src: url(/assets/mono_italic.woff2) format("woff2");
+}
+
 html, body{
     height: 100vh;
     margin: 0;
     padding: 0;
+    background-color: #F5F2ED;
 }
 
 
@@ -12,14 +23,14 @@ body{
     display: grid;
   grid-template-columns: 1fr auto; /* Left takes remaining space, right has fixed width */
   gap: 0px;
-  font-family: "logic-monospace", mono;
+  font-family: "mono", mono;
   font-weight: 400;
   font-style: normal;
   height: 100vh;
 }
 
 h1 {
-    font-family: "logic-monospace", mono;
+    font-family: "mono", mono;
     font-weight: 400;
     font-style: normal;
     color: black;
@@ -28,7 +39,7 @@ h1 {
 
 
 h2 {
-    font-family: "logic-monospace", mono;
+    font-family: "mono", mono;
     font-weight: 400;
     font-style: normal;
     color: black;
@@ -36,7 +47,7 @@ h2 {
 }
 
 h3{
-    font-family: "logic-monospace", mono;
+    font-family: "mono", mono;
     font-style: italic;
     font-weight: 400;
     color: black;
@@ -44,7 +55,7 @@ h3{
 }
 
 a {
-    font-family: "logic-monoscript", mono;
+    font-family: "mono", mono;
     color: black;
 
     // h1:hover{
@@ -53,10 +64,20 @@ a {
 }
 nav{
     a{
-        font-family: "logic-monospace", mono;
+        font-family: "mono", mono;
     font-weight: 400;
     font-style: normal;
     }
+}
+
+nav:hover{
+    a{
+        font-family: "mono_italic", mono;
+        font-weight: 400;
+        font-style: normal;
+    }
+    cursor: grab;
+    
 }
 p{
     margin: 0px;

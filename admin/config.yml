@@ -4,6 +4,8 @@ backend:
 
 media_folder: "images"
 
+
+
 collections:
   - name: "work"
     label: "Work" 
