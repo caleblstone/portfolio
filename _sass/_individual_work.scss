@@ -64,8 +64,7 @@ div.work_images{
   overflow-y: scroll;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;
-  display: flex;
-  justify-content: right;
+  justify-self: end;
 
     img{
         max-width: 100%;
