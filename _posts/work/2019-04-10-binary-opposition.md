@@ -6,16 +6,16 @@ production_date: "2019"
 materials: Risograph prints in staple bound book
 dimensions: 6" x 8.5"
 images:
-  - https://ucarecdn.com/bec2cecb-2495-4319-b2ca-ef33945682e3/
-  - https://ucarecdn.com/1fb337ad-76a3-40a6-8959-a3c3d5dd900f/
-  - https://ucarecdn.com/78612593-776f-4c73-ad7b-3215e279990e/
-  - https://ucarecdn.com/9ba2310c-6746-431e-9037-2ed731b42102/
-  - https://ucarecdn.com/9945fceb-07ea-47bf-a01f-404748f4a673/
-  - https://ucarecdn.com/cb210d06-bfc8-47e7-983a-b685e2477bd5/
-  - https://ucarecdn.com/bd9aceb3-540d-4422-947e-e153852b5a42/
-  - https://ucarecdn.com/68574b38-796b-4a1a-b328-04a00f4f279c/
-  - https://ucarecdn.com/c6c9b624-2371-407e-9c86-84b921c39f9c/
-  - https://ucarecdn.com/369dad14-6f09-415c-8ad4-196f41b391e8/
+  - https://ucarecdn.com/4447f1b4-465e-4db3-90d0-6ac761dbf1b1/
+  - https://ucarecdn.com/0137f191-c3b6-48c6-bc32-45a4f3cb1844/
+  - https://ucarecdn.com/feae4630-c824-44b4-ba53-66baf93e4faf/
+  - https://ucarecdn.com/fe88032b-d003-4cc0-9bb5-7dc8d9c20bfd/
+  - https://ucarecdn.com/3d12b4ef-cb40-4f9f-b56c-f826e6e6838d/
+  - https://ucarecdn.com/8ff48383-c5ce-4dbb-93f7-24ac2b42729c/
+  - https://ucarecdn.com/a4b49d89-92ec-4933-b937-5f4825fddade/
+  - https://ucarecdn.com/259e32ce-18ad-4a97-af7a-97ccf7f9d0a7/
+  - https://ucarecdn.com/3255fe33-1250-44bd-9962-ecf79a736296/
+  - https://ucarecdn.com/95ea3904-302f-417a-944c-f29705d98d2d/
 ---
 binary opposition is:
 
