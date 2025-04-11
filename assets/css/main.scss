@@ -82,6 +82,11 @@ nav:hover{
 p{
     margin: 0px;
     margin-bottom: 16px;
+    a{
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;  
+        text-decoration: underline;  
+    }
 }
 
 @import "body";
