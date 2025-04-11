@@ -6,12 +6,12 @@ production_date: "2024"
 materials: Graphite on vellum
 dimensions: 8.5 x 11 in
 images:
-  - https://ucarecdn.com/1d7342f5-74cf-4b72-9f2f-074c2166eca0/
-  - https://ucarecdn.com/c1f74c4a-b0a0-4f59-98a5-6741f13f2030/
-  - https://ucarecdn.com/55fb71a4-3490-48a5-80ad-f1862aa44c1c/
-  - https://ucarecdn.com/329dc3eb-9467-4402-908c-282d76afa934/
-  - https://ucarecdn.com/4f689101-bed9-4ade-9163-8bd200ce4bb3/
-  - https://ucarecdn.com/a4b14808-bc48-4ef3-a348-16e53a93a652/
-  - https://ucarecdn.com/f93ccd2b-27d3-4a7f-b088-22b7a4fb2061/
+  - https://ucarecdn.com/0e1fca79-bb27-4543-ae57-19694a1828b9/
+  - https://ucarecdn.com/d34d2a47-0f71-4935-9cfd-42d3c6d9b4a9/
+  - https://ucarecdn.com/03142b88-ba62-4f72-9df6-9d0cc06ad9a9/
+  - https://ucarecdn.com/1c9b2773-41b3-4b87-83fe-b4709ad70acd/
+  - https://ucarecdn.com/591309d1-d566-4878-bb47-32a3b8fe0d6c/
+  - https://ucarecdn.com/21a1ffaa-a4f6-4a1f-b352-758065863415/
+  - https://ucarecdn.com/26a5affe-6da0-434f-b5a2-192afed42933/
 ---
 drawings
