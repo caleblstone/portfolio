@@ -24,7 +24,7 @@ collections:
       - { label: "Materials", name: "materials", widget: "string" }
       - { label: "Dimensions", name: "dimensions", widget: "string" }
       - { label: "Images", name: "images", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "text"
     label: "Text" 
     folder: "_posts/text"
@@ -50,7 +50,7 @@ collections:
       - { label: "Type", name: "type", widget: "string" }
       - { label: "Location", name: "location", widget: "string" }
       - { label: "Images", name: "images", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "questions"
     label: "Question" 
     folder: "_posts/questions"
