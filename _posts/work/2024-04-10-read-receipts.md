@@ -14,4 +14,3 @@ images:
   - https://ucarecdn.com/21a1ffaa-a4f6-4a1f-b352-758065863415/
   - https://ucarecdn.com/26a5affe-6da0-434f-b5a2-192afed42933/
 ---
-drawings
