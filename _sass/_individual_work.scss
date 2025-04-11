@@ -5,24 +5,7 @@ div.individual_work{
     height: 100%; 
     overflow: hidden; 
 
-        div.work{
-            padding-left: 16px;
-            padding-right: 16px;
-            position: sticky;
-            top: 0px;
-            // background-color: rgba(25, 194, 194, .5);
-            // backdrop-filter: blur(10px);
-            
-        }
-        div.work:hover{
-            h1, h2{
-             font-family: "mono", mono;
-            }
-             h1{
-                 text-decoration: none;
-             }
-         }
-        
+       
 }
 
 div.individual_work_content{
@@ -30,6 +13,46 @@ div.individual_work_content{
     grid-template-columns: auto 1fr;
     gap: 0px;
     height: 100%;
+    overflow: hidden;
+
+    div.work{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-top: 16px;
+        margin-bottom: 16px;
+        text-align: left;
+
+    div.work_dimensions{
+        display: inline;
+    }
+    
+    
+    div{
+        padding: 0px;
+
+        h1{
+            margin-top: 0px;
+            margin-bottom: 0px;
+            font-family: "mono_italic", mono;
+        }
+        h2{
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+    }
+        // background-color: rgba(25, 194, 194, .5);
+        // backdrop-filter: blur(10px);
+        
+    }
+    div.work:hover{
+        h1, h2{
+         font-family: "mono", mono;
+        }
+         h1{
+             text-decoration: none;
+         }
+     }
+    
     
 }
 
@@ -59,12 +82,16 @@ div.work_description::-webkit-scrollbar {
     
 
 div.work_images{
-    width: 100%;
+    width: auto;
   height: 100%; 
+//   width: 100%;
   overflow-y: scroll;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;
   justify-self: end;
+
+  display: flex;
+  flex-direction: column;
 
     img{
         max-width: 100%;
