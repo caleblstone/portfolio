@@ -7,16 +7,14 @@ materials: Graphite drawings on vellum mounted to wood and nails with magnets,
   wild-harvested earthenware
 dimensions: 73 x 11 x 3 in.
 images:
-  - https://ucarecdn.com/df132fa7-4ce2-40d1-8f09-0b479a166739/
-  - https://ucarecdn.com/7adc2ee0-aaaf-4a57-89f6-014921d3e2a6/
-  - https://ucarecdn.com/6293fd22-97a5-4618-856b-3c6c1c48377e/
-  - https://ucarecdn.com/e165e347-c9e3-41a8-be69-57f21ef9d01d/
-  - https://ucarecdn.com/19956bd2-a0c5-46d0-962d-bdb8e8a04493/
-  - https://ucarecdn.com/153f0798-f65e-44a3-8ed0-df174332728b/
-  - https://ucarecdn.com/836be417-6c54-47a0-8150-0ad23122da47/
-  - https://ucarecdn.com/3a9d101a-5c3e-45c8-a05d-3ed336959720/
-  - https://ucarecdn.com/498fef52-44b2-4e56-9acc-c58af69a9142/
-  - https://ucarecdn.com/3d4dcc92-0c2a-4956-ad19-406969228e34/
-  - https://ucarecdn.com/f2a48ea0-4e0c-4526-8d13-b80583ab03c4/
+  - https://ucarecdn.com/e21c92fb-09f3-4b4c-b758-0a4cbeaa8c00/
+  - https://ucarecdn.com/fee2d848-e14f-4c78-b036-e8d11a4de202/
+  - https://ucarecdn.com/a2e3d713-a616-40d3-9008-8ae9b50e05dc/
+  - https://ucarecdn.com/df1d2ad5-2323-400a-8850-7a8a133bb4aa/
+  - https://ucarecdn.com/fb158aa2-bc15-41dd-945a-555d53531bc9/
+  - https://ucarecdn.com/ec3e8485-31eb-47a9-a34c-ea5572b95a3a/
+  - https://ucarecdn.com/bd2f1270-be55-42ff-869b-8811f53b8fe5/
+  - https://ucarecdn.com/264b13e8-6cac-44c2-9d61-dba8cdf9344f/
+  - https://ucarecdn.com/a6a176ec-86dc-4943-b610-cbea7490cbba/
+  - https://ucarecdn.com/eb8c5716-05e0-4f0c-a359-445ad5d8b9c5/
 ---
-sculpture
