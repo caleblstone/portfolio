@@ -3,17 +3,25 @@ div.worklist{
     padding-right: 16px;
     display: grid;
     grid-template-columns: 1fr; /* Single column */
-    height: min-content;
     overflow-y: scroll;
+    height: 100%;
+    grid-auto-rows: min-content;
 
     a{
         text-decoration: none;
+        height: min-content;
     }
 }
 
 div.work{
     display: grid;
     grid-template-columns: 2fr 1fr 2fr; 
+    column-gap: 32px;
+}
+
+div.communitylist{
+    grid-template-columns: 2fr 1fr 1fr 2fr; 
+    
 }
 
 div.work_dimensions{
