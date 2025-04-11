@@ -10,4 +10,3 @@ images:
   - https://ucarecdn.com/3a73df0f-d2f3-4964-bfab-2e942ebabfda/
   - https://ucarecdn.com/5217d41c-9881-4eb8-ba6a-1ee7b95024a4/
 ---
-prints
