@@ -3,8 +3,20 @@ layout: individual_text_layout
 categories: text
 title: Sonic Imagination
 production_date: "2025"
-type: Essay
+type: Reading Response
 ---
+*Reading response written for [Stolen School](https://stolen.school) Week 1: Sonic Silences*
+
+*\-"Like Melody or Witchcraft: Empowerment Through Literature"* by Deborah A. Miranda
+
+\-*"Living Scores"* by Oana Avasilichioai
+
+\-*"Silence"* and *"The Triumph"* by Clarice Lispector
+
+\-*"Speech Sounds"* by Octavia Butler
+
+\-*"Murke's Collected Silences"* by Heinrich Böll
+
 Sound is known to spread. Like honey, it has a particular capacity for escaping its containers. It makes a mess. It leaves nothing untouched. Despite touching everything, it is difficult to apprehend. Its immateriality slips through conceptual grasping and linguistic parameters. The difficulty with which one describes what sound *is* can only be matched by the ease with which sound produces meaning. Inherently evocative, its medium is potent with potential to move and expand. This is Dickinson’s worry when she asks, “is it unconveyed, like melody or witchcraft?”
 
 I’d like to begin with the text by Deborah A. Miranda because it sets the stage for our seminars, posing the question, “how is it that one can learn?” We can understand the process that allows for the acquisition of discrete forms of knowledge (that which might be useful at trivia night), but the process that allows for the conveyance of the un-conveyable is more difficult to discern. How might we produce environments that coax out these knowings if they cannot be handed off like an object or a word? How do we know that we know these knowings if they are not granted the privilege of identification, of a name? 
@@ -14,6 +26,8 @@ Miranda offers the evocative potential of sound as a framework for understanding
 A religious person might mistake the particularity of this form of learning for the acquisition of something universal, something preexisting that is “tapped-into.” It is this that Vivian Darroch-Lozowski appears to describe when she is confronted by her privilege at the moment of associating the beauty of a frozen landscape with tears of the marginalized. She argues that this association, between the image of the ice crystal and the tears of suffering, comes as a result of the electromagnetic quality of the word as it is enacted by the brain. These frequencies, in Darroch-Lozowski’s framework, are ontologically prior to the words themselves and allow for an “interbeing...where discoveries form a re-hearing of words with which we are all familiar.” Thus, the individual evocations described in “Like Melody or Witchcraft” are here reconfigured as moments of access to universal truths awaiting discovery. 
 
 The resulting politics of this framework are one that treats words as a scarce, finite resource. Derroch-Lozowski goes on to describe “the ultimate task” of words as the capacity to “shift perceptions and understandings away from usual habits of thought and usual frameworks of knowing.” Is it not words that have the capacity to shift understandings, it is their mischievous use. We do not need more words, we need more rubbing, frictions that produces resonances. This humming is dialectical by nature, a third thing arising from the heat of conflict between an external two. Darroch-Lozowski knows this, perhaps, but attributes this third to a universal wellspring as opposed to an individual evocation of her mind. I think here of the surrealist, Max Ernst who followed the lead of his unconscious to coax images from found textures in his *frottages* (rubbings). 
+
+![](https://www.moma.org/media/W1siZiIsIjE3OTMwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=ed2eaf0ab62536d0)
 
 If we are to depart from Darroch-Lozowski’s electromagnetic universalism and read the works of fiction with Miranda’s resonances in mind, there emerges a continued relationship between the sonic and the unconscious or imaginary. Clarice Lispector’s “The Triumph” begins with a sensory double, a clock lets out a “loud, sonorous peal” quickly followed by a “bright stain of sunlight,” what David Bowie might describe as “sound and vision.” Before our character, Luísa opens her eyes, we begin to understand her world through what she hears. A crunching outside yields the picture of a “child running out on the road,” a silence yields a line of questioning that provides us with what a morning might typically sound like. In the state between dreaming and waking, sounds naturally build out images as if seeing is always done with the ears. 
 
@@ -28,7 +42,6 @@ Later in the story, we discover BM’s desire to change each instance of the wor
 While there is much to say here about audio’s capacity to revive the voices of the dead, it must be stated that it is difficult to pull this quote from its context. Taking place in postwar Germany, the population is haunted by the specters of its fascist history. The writer himself, while remaining critical of the Nazi regime, was drafted into and the army of the Third Reich. It was a time in which unearthed audio recordings that proved individuals’ complicity in the party’s war crimes could result in prison sentences and death. This might explain Bur-Malottke’s particular preoccupation with the ideological consistency of his archive.
 
 Ultimately, the texts synthesize a number of perspectives on the process through which sound induces the imagination, opening up our thinking in such a way that our minds become capable of profound external influence. This quality of the sonic can be both liberatory in its dehabituating tendency and dangerous in its capacity to produce compliance. How may we wield the sonic to foster the former, making ourselves unfamiliar such that we become susceptible to ways of perceiving that we have lost? How may we wield it to evoke each others’ dreams?
-
 
 [^1] I wonder how Bergson’s conception of “images” in *Matter and Memory* maps onto the perception of audio. Put simply, Bergson posits that we can never really “see,” as our vision is, by its very nature, an act of remembering. Seeing, then, can only occur through the veil of remembered “images” and is thus inherently subjective.
 
