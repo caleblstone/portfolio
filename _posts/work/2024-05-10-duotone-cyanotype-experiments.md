@@ -6,7 +6,7 @@ production_date: "2024"
 materials: Cyanotype on paper
 dimensions: 9 x 12 in.
 images:
-  - https://ucarecdn.com/ad0cdf99-4e09-4aba-8f4b-37063446a383/
-  - https://ucarecdn.com/3a73df0f-d2f3-4964-bfab-2e942ebabfda/
-  - https://ucarecdn.com/5217d41c-9881-4eb8-ba6a-1ee7b95024a4/
+  - https://ucarecdn.com/79fddcf6-cffb-47e0-a867-fb630e610a63/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/74868caf-20e7-4443-81de-a94c71fe24a8/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/79bb0072-1d30-4ab1-ad6b-5625dec2f731/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
