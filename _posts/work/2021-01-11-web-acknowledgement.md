@@ -6,7 +6,7 @@ production_date: "2021"
 materials: Chrome extension
 dimensions: N/A
 images:
-  - https://ucarecdn.com/0e073b37-2180-4039-82fb-e6e725631bbf/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/af480ba4-acb1-4aa4-9993-6dbf0752c14a/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
 [Web Acknowledgement](https://chrome.google.com/webstore/detail/web-acknowledgement/dimpmephpcddcichkcicdljjgdhjkgop) is a an extension for Google Chrome designed and developed for [Rory Solomon](https://twitter.com/rorys?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)'s [Radical Software](https://criticalengineering.org/) class at The New School.
 
