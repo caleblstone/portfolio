@@ -6,11 +6,11 @@ production_date: "2024"
 materials: Graphite on vellum
 dimensions: 8.5 x 11 in
 images:
-  - https://ucarecdn.com/0e1fca79-bb27-4543-ae57-19694a1828b9/
-  - https://ucarecdn.com/d34d2a47-0f71-4935-9cfd-42d3c6d9b4a9/
-  - https://ucarecdn.com/03142b88-ba62-4f72-9df6-9d0cc06ad9a9/
-  - https://ucarecdn.com/1c9b2773-41b3-4b87-83fe-b4709ad70acd/
-  - https://ucarecdn.com/591309d1-d566-4878-bb47-32a3b8fe0d6c/
-  - https://ucarecdn.com/21a1ffaa-a4f6-4a1f-b352-758065863415/
-  - https://ucarecdn.com/26a5affe-6da0-434f-b5a2-192afed42933/
+  - https://ucarecdn.com/c6f3bc54-414e-4a35-9167-1aff4a1fdd45/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/2b13fd41-166f-4bba-b1ab-a14ca6c6ff5a/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/f7a6ab8c-b68a-49a4-ae54-4ab7f264eab2/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/98bfb54e-c65c-49f1-97a5-aa48b1d45767/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/39593a35-24c9-4dd6-a1b8-561b26bf3704/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/5e0d1c09-179b-4ac3-a196-14870d48dcda/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/c47d6e94-7d17-4bee-9537-cdad7571755a/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
