@@ -6,10 +6,10 @@ production_date: "2024"
 materials: Ceramic, Aluminum, Hardware
 dimensions: Dimensions Variable
 images:
-  - https://ucarecdn.com/f74dd9e6-0f8c-4048-81a7-2778fcb5feb4/
-  - https://ucarecdn.com/62cf4889-41ff-4a98-8319-3e842c2a2d2b/
-  - https://ucarecdn.com/1a153b9c-69d0-499f-bde5-90f878ce5fd6/
-  - https://ucarecdn.com/0b71ef12-6d61-4a23-844c-0b65fe9c9463/
-  - https://ucarecdn.com/06f5717c-00c4-48f0-ab7f-85c522ce7278/
-  - https://ucarecdn.com/093403cb-b68c-4c0b-b5d5-847e427b5aa5/
+  - https://ucarecdn.com/130a7c88-f12b-4d7d-be4c-09fb6dfda08f/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/8ed1059f-6ebc-4bbb-b5ec-898b78cc41ff/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/91119a01-d116-45e5-9aa1-5dfb059c99e8/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/b11f5c86-e282-4cde-b16c-f14866bdc1e9/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/9430ba23-c11e-4639-aa8d-e1da21206667/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/23bea8c2-2478-4277-8bb9-305fb651d83a/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
