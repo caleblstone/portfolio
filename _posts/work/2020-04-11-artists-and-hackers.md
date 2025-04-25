@@ -6,7 +6,7 @@ production_date: "2020"
 materials: Website
 dimensions: N/A
 images:
-  - https://ucarecdn.com/efe4f95f-4e4b-4eba-b381-0338a9e47cb6/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/e3227fca-d5f1-47c5-b264-bd2fee1b8d3a/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
 [Artists and Hackers](https://www.artistsandhackers.org/) is a podcast dedicated to the community that is building and using new digital tools for creation.
 
