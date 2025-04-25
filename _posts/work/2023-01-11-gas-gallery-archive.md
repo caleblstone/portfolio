@@ -6,7 +6,7 @@ production_date: "2023"
 materials: Website
 dimensions: ""
 images:
-  - https://ucarecdn.com/2fa21b87-3c03-440a-91ec-62c7be5ea11b/-/resize/2400/-/quality/lightest/-/format/auto/
-  - https://ucarecdn.com/6a36e157-77ef-425f-867a-976ecba4bc79/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/5ad839ed-fe96-4af2-875c-7ae2c6124181/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/22140417-f728-49a9-bc73-ad87bb503138/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
 <http://gas.gallery>
