@@ -6,7 +6,7 @@ production_date: "2021"
 materials: Website
 dimensions: N/A
 images:
-  - https://ucarecdn.com/ecda6d35-cdba-44e2-9833-0ad65e33e217/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/fcc223a4-ed5d-43dd-ba87-fe4c30bed212/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
 [Breathing Museum](https://caleblstone.github.io/systems-aesthetics-final/) is a final project submitted for [Alan Ruiz's](http://www.alanruiz.net/) class on Systems Aesthetics.
 
