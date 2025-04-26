@@ -6,7 +6,12 @@ production_date: September 2024
 type: Exhibition
 location: Compére Collective - Red Hook, Brooklyn
 images:
-  - https://ucarecdn.com/dbdde31f-d1ee-4bba-ac99-1d4fefea830f/
+  - https://ucarecdn.com/4f082d07-0121-403e-b68c-0213bb3203f6/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/33e85cd1-3cdc-49c7-9788-02029b253105/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/af677e8a-23cd-473b-a48a-0ccc650c9f23/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/186f060e-7d45-4959-a771-1aee38dd0507/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/4b1a7499-82f4-4443-b1e4-77a4762c8385/-/resize/2400/-/quality/lightest/-/format/auto/
+  - https://ucarecdn.com/30acac4e-64e3-4eb4-8981-8e0e75fb9cf2/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
 ***The dust exceeded all expectations***
 
