@@ -3,7 +3,7 @@ layout: individual_work_layout
 categories: work
 title: Preliminary Notes from the Institute for Municipal Graphology
 production_date: "2025"
-materials: Bound inkjet prints on paper
+materials: Bound laser prints on paper
 dimensions: 4 x 5.5 in.
 images:
   - https://ucarecdn.com/8e571dba-d9ca-402b-8978-adf9726c9f1d/-/resize/2400/-/quality/lightest/-/format/auto/
