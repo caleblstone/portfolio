@@ -21,6 +21,8 @@ images:
 
 **Lia Di Bitonto, Cecilia Chiappini, Joseph Issac Cohen, India Halsted, Jamison Lung, Iz Nettere, Leslie Rosario-Olivo, Caleb Stone, Sage Vousé, and Claire Beini Zhang**
 
+**Organized by Caleb Stone**
+
 A year ago we began to meet as a group. What started as 18, settled to 6 and grew to 10. We gather biweekly as generous askers and lookers to share a meal and then to critique our work. Expanding and contracting like a spring, our shape de- and re- forms in seasons. We move slowly through a form of Liz Lerman’s Critical Response Process, modified and augmented each week by a self-elected leader. A curious ritual begins: We say “I notice frames” or “I see fronts but no backs” and shift from formal observation to questioning to opinion, brushing bits of debris from our minds. There is no need to separate warp from weft, only to shake out our blanket and watch the dust - momentarily illuminated in the air.
 
 It is through relation that our work gains potency. Learning from one another, we unspool like a ball of string held between two fingers. We roll across the floor gathering bits of debris, playing copycat or antagonist as means to question our supposed signatures. We emerge again and again, now bringing you into our process of becoming.
