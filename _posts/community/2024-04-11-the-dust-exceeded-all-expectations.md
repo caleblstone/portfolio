@@ -2,7 +2,7 @@
 layout: individual_community_layout
 categories: community
 title: The dust exceeded all expectations
-production_date: September 2024
+production_date: September 6-20th, 2024
 type: Exhibition
 location: Compére Collective - Red Hook, Brooklyn
 images:
@@ -13,13 +13,9 @@ images:
   - https://ucarecdn.com/4b1a7499-82f4-4443-b1e4-77a4762c8385/-/resize/2400/-/quality/lightest/-/format/auto/
   - https://ucarecdn.com/30acac4e-64e3-4eb4-8981-8e0e75fb9cf2/-/resize/2400/-/quality/lightest/-/format/auto/
 ---
-***The dust exceeded all expectations***
-
-**September 6-20th, 2024**
-
-**351 Van Brunt St, Brooklyn, NY**
-
 **Lia Di Bitonto, Cecilia Chiappini, Joseph Issac Cohen, India Halsted, Jamison Lung, Iz Nettere, Leslie Rosario-Olivo, Caleb Stone, Sage Vousé, and Claire Beini Zhang**
+
+**Organized by Caleb Stone**
 
 A year ago we began to meet as a group. What started as 18, settled to 6 and grew to 10. We gather biweekly as generous askers and lookers to share a meal and then to critique our work. Expanding and contracting like a spring, our shape de- and re- forms in seasons. We move slowly through a form of Liz Lerman’s Critical Response Process, modified and augmented each week by a self-elected leader. A curious ritual begins: We say “I notice frames” or “I see fronts but no backs” and shift from formal observation to questioning to opinion, brushing bits of debris from our minds. There is no need to separate warp from weft, only to shake out our blanket and watch the dust - momentarily illuminated in the air.
 
