@@ -1,8 +1,8 @@
 ---
 layout: individual_community_layout
 categories: community
-title: No Shirt No Service
-production_date: April 2025-Present
+title: "No Shirt No Service #1 - Inger Agger Hougaard"
+production_date: April 2025
 type: Exhibition Series
 location: Lisbon, Portugal
 images:
