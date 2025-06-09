@@ -5,18 +5,6 @@ title: Sonic Imagination
 production_date: "2025"
 type: Reading Response
 ---
-*Reading response written for [Stolen School](https://stolen.school) Week 1: Sonic Silences*
-
-*\-"Like Melody or Witchcraft: Empowerment Through Literature"* by Deborah A. Miranda
-
-\-*"Living Scores"* by Oana Avasilichioai
-
-\-*"Silence"* and *"The Triumph"* by Clarice Lispector
-
-\-*"Speech Sounds"* by Octavia Butler
-
-\-*"Murke's Collected Silences"* by Heinrich Böll
-
 Sound is known to spread. Like honey, it has a particular capacity for escaping its containers. It makes a mess. It leaves nothing untouched. Despite touching everything, it is difficult to apprehend. Its immateriality slips through conceptual grasping and linguistic parameters. The difficulty with which one describes what sound *is* can only be matched by the ease with which sound produces meaning. Inherently evocative, its medium is potent with potential to move and expand. This is Dickinson’s worry when she asks, “is it unconveyed, like melody or witchcraft?”
 
 I’d like to begin with the text by Deborah A. Miranda because it sets the stage for our seminars, posing the question, “how is it that one can learn?” We can understand the process that allows for the acquisition of discrete forms of knowledge (that which might be useful at trivia night), but the process that allows for the conveyance of the un-conveyable is more difficult to discern. How might we produce environments that coax out these knowings if they cannot be handed off like an object or a word? How do we know that we know these knowings if they are not granted the privilege of identification, of a name? 
@@ -48,3 +36,17 @@ Ultimately, the texts synthesize a number of perspectives on the process through
 [^2] We may let audio help us place ourselves even when it is fabricated. This is audio’s capacity for invoking the dream.
 
 [^3] We could, perhaps, view Murke’s omnipresent voice as the voice of the very God that Bur-Malottke is trying to erase while viewing BM’s subsequent unheard and helplessness protesting as an element of his disenfranchisement with the higher power (like an unanswered prayer).
+
+\*\**
+
+*Reading response written for [Stolen School](<>) Week 1: Sonic Silences*
+
+*\-"Like Melody or Witchcraft: Empowerment Through Literature"* by Deborah A. Miranda
+
+\-*"Living Scores"* by Oana Avasilichioai
+
+\-*"Silence"* and *"The Triumph"* by Clarice Lispector
+
+\-*"Speech Sounds"* by Octavia Butler
+
+\-*"Murke's Collected Silences"* by Heinrich Böll
