@@ -39,4 +39,6 @@ Seeking directions, Michelle drops her shells on Lisbon’s limestone calçada 
 
 Change is exchanged to make clothes spin in a circle, finding themselves anew in orientation, fresh in the cycle from dirty to clean. The final divination yields the hexagram, ䷽ (62), calling attention to the significance of the small. Goldfish mouths, *small things may be done, great things may not*. Decisions, decisions… every choice a change, every action a minor transgression.
 
+***Special thanks to Liska Henglein for the photographs.***
+
 ***Organized in collaboration with [Joseph Issac Cohen](https://joseph-cohen.com)***
