@@ -26,7 +26,9 @@ images:
 **Michelle Chang Qin**
 
 17 May 2025, 8:00pm
-Lucky Sushi & Wok
+
+*Lucky Sushi & Wok*
+
 R. Lucinda do Carmo 23A, 1900-302 Lisboa
 
 As the rumor goes, the memory of a goldfish only lasts three seconds. In the time it takes to map its bowl’s perimeter, Goldfish sees the world anew, full of potential. Its life is defined by cyclical renewals—the world a sphere of chance.
