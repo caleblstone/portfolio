@@ -21,9 +21,7 @@
 title: Caleb Stone
 email: bycalebstone@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Caleb Stone is an artist, organizer, and educator based in Brooklyn, NY. 
-  Caleb is the founder of "In Season,"" a bi-weekly studio critique group and "The Stolen School,"
-  a free, media and sound studies reading group.
+  Caleb Stone is an artist, organizer, and educator based in Brooklyn, NY.
 tagline: >-
   Caleb Stone is an artist, organizer, and educator based in Brooklyn, NY. 
 baseurl: "" # the subpath of your site, e.g. /blog
